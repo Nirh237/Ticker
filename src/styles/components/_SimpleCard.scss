@@ -1,0 +1,30 @@
+
+
+.card {
+  height: 50%;
+  width: 80%;
+  margin: 20px;
+  color:white;
+  position: relative;
+border-color: white ;
+background-image: url("../images/post_bg.png");
+text-align: right;
+
+}
+
+
+.image {
+  width: 80px;
+  height: 80px;
+  float: right;
+  margin: 15px 0px 5px 10px;
+  border:solid;
+  border-radius: 2px;
+  border-color: red;
+}
+
+.date{
+  color: red;
+}
+
+ 

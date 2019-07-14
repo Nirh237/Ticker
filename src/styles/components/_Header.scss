@@ -1,0 +1,64 @@
+
+
+.header {
+    border: none;
+    background-image: url("../images/bg.png");
+    // margin-bottom: $xl-size;
+    padding: 2.4rem;
+    // width: 94.9%;
+   
+
+}
+
+.content-container {
+    margin: 0 auto;
+    padding: 0  1.6rem;
+    max-width: 80rem;
+  }
+
+.header__content {
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+ 
+
+}
+
+.header__title {
+
+    
+    width: 200;
+    height: 24px;
+    // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    // font-size: 40px;
+    font-size: 2em;
+    color: white;
+    // font-weight: bold;
+    // font-style: italic;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 9px;
+    padding-bottom: 11px;
+    
+
+
+
+}
+
+.logout_icon {
+
+  width: 20px;
+  height: 21.6px;
+  object-fit: contain;
+  
+}
+
+.header-icon {
+ position: absolute;
+ left: 342px;
+ top: 9px;
+}
